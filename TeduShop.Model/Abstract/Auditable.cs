@@ -24,6 +24,6 @@ namespace TeduShop.Model.Abstract
         public bool Status { set; get; }
 
         
-        }
+        
     }
 }
